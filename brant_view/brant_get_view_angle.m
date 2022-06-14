@@ -23,5 +23,7 @@ switch mode_brain{1}
                 view_angle = [180, 0];
             case 'coronal posterior'
                 view_angle = [0, 0];
+            case 'user1'
+                view_angle = [-140, 40];
         end
 end
